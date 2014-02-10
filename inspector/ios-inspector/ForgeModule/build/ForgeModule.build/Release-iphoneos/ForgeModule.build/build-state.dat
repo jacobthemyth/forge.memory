@@ -1,0 +1,291 @@
+TForgeModule
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_API.o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_EventListener.o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_API.o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_EventListener.o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7
+cLibtool /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s
+cCreateUniversalBinary /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c0000000052816A970000000000000110
+t1384213143
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000523E1962000000000000036B
+t1379801442
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000052688B1F00000000000001A0
+t1382583071
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c0000000052688B200000000000075BB0
+t1382583072
+s482224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052688B2300000000004D63C0
+t1382583075
+s5071808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052688B250000000000A92BC0
+t1382583077
+s11086784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000052688B2900000000001A2270
+t1382583081
+s1712752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000052688B3000000000025A5AC0
+t1382583088
+s39475904
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/ForgeCore
+c0000000052F809A50000000000467254
+t1391987109
+s4616788
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+c0000000052F809A50000000000000159
+t1391987109
+s345
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/ForgeModule.LinkFileList
+c0000000052F914F30000000000000158
+t1392055539
+s344
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a
+t1392055541
+s60080
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_API.o
+t1392055541
+s3444
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_EventListener.o
+t1392055541
+s56204
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/ForgeModule.LinkFileList
+c0000000052F914F3000000000000015A
+t1392055539
+s346
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a
+t1392055541
+s60080
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_API.o
+t1392055541
+s3444
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_EventListener.o
+t1392055541
+s56204
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a
+t2
+s0
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m
+c0000000052F80A470000000000000039
+t1391987271
+s57
+
+N/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m
+c0000000052F8113C000000000000024B
+t1391989052
+s587
+
+N/var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch.pch
+t1392055540
+s5705544
+
+N/var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch.pch
+t1392055540
+s5705664
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies43006c734ca9b841^dfa786734ca9b841^---0#1#1#--18"Check dependencies36"703E4C6B-DE89-490D-A977-6AAF7B954496-
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_API.o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413748340.928799
+e413748341.175983
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_API.o
+x/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m183"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_API.o memory_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerbb47ee744ca9b841^46ea2d754ca9b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m0000000000000000^4013"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_API.o memory_API.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=5.0.1 -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/.. -include /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_API.d --serialize-diagnostics /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_API.dia -c /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m -o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_API.o36"2C47AB04-5293-4D3C-B49C-7B7C5073B1CE-
+bEBA547CF-3D41-4780-8324-5C700CF204CB
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_EventListener.o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413748340.930271
+e413748341.427535
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_EventListener.o
+x/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m203"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_EventListener.o memory_EventListener.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler658dee744ca9b841^f4a76d754ca9b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m0000000000000000^4073"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_EventListener.o memory_EventListener.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=5.0.1 -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/.. -include /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_EventListener.d --serialize-diagnostics /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_EventListener.dia -c /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m -o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/memory_EventListener.o36"27508DA0-B0E2-4C3E-85A2-CFCE48E69897-
+bEBA547CF-3D41-4780-8324-5C700CF204CB
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_API.o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413748341.176938
+e413748341.329344
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_API.o
+x/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m185"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_API.o memory_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler87df2d754ca9b841^12dc54754ca9b841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m0000000000000000^4020"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_API.o memory_API.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=5.0.1 -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/.. -include /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_API.d --serialize-diagnostics /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_API.dia -c /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_API.m -o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_API.o36"547697A8-0D8B-4C7A-93E7-15AD4805F40B-
+bEBA547CF-3D41-4780-8324-5C700CF204CB
+
+CCompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_EventListener.o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413748341.329619
+e413748341.522691
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_EventListener.o
+x/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m205"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_EventListener.o memory_EventListener.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere9d154754ca9b841^67d385754ca9b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m0000000000000000^4080"CompileC build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_EventListener.o memory_EventListener.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=5.0.1 -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/.. -include /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_EventListener.d --serialize-diagnostics /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_EventListener.dia -c /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/memory_EventListener.m -o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/memory_EventListener.o36"65F23BAD-0AC3-44D1-A5F4-C607940F4D1E-
+bEBA547CF-3D41-4780-8324-5C700CF204CB
+
+CCreateUniversalBinary /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s
+s413748341.545868
+e413748341.562176
+r1
+xCreateUniversalBinary
+x/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Create universal binary /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a82"CreateUniversalBinary build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s14228c754ca9b841^1f1090754ca9b841^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a00345059ddffdf42^1543"CreateUniversalBinary build/Release-iphoneos/libForgeModule.a normal armv7\ armv7s    cd /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    libtool -static /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a -o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/libForgeModule.a36"29EFF0C6-6CCE-41FC-A609-A7228C79AFE8-
+bEBA547CF-3D41-4780-8324-5C700CF204CB
+
+CLibtool /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7
+s413748341.525133
+e413748341.544129
+r1
+xLibtool
+x/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7117"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv712da86754ca9b841^9a5d8b754ca9b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1988"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a normal armv7    cd /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -filelist /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Foundation -framework ForgeCore -o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7/libForgeModule.a36"3D654370-56D7-4413-B290-F51F407C6723-
+bEBA547CF-3D41-4780-8324-5C700CF204CB
+
+CLibtool /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s
+s413748341.525720
+e413748341.544098
+r1
+xLibtool
+x/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s119"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s84f286754ca9b841^425a8b754ca9b841^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1993"Libtool build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a normal armv7s    cd /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -filelist /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Foundation -framework ForgeCore -o /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/Objects-normal/armv7s/libForgeModule.a36"4E33FDC3-D31F-4384-920B-7C3AB946A0DE-
+bEBA547CF-3D41-4780-8324-5C700CF204CB
+
+CProcessPCH /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413748339.522056
+e413748340.926856
+r1
+xProcessPCH
+x/var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch314"ProcessPCH /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler096c86734ca9b841^5648ed744ca9b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4075"ProcessPCH /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=5.0.1 -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7 -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch.d -c /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dlwnbrwazcmgebbvrrnvmkziqfpf/ForgeModule-Prefix.pch.pch36"12D34D2F-424D-40AC-8AF7-60D072EB794E-
+bEBA547CF-3D41-4780-8324-5C700CF204CB
+
+CProcessPCH /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s413748339.522701
+e413748340.899768
+r1
+xProcessPCH
+x/var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch.pch
+xForgeModule-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeCore.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeTask.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeLog.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeAppDelegate.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeApp.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/JSONKit.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeViewController.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeEventListener.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeFile.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ForgeUtil.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/BorderControl.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/ALAsset+Data.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/UIImage+ResizeImage.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/NSData+Base64.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/NSURL+QueryString.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/Reachability.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+d/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch315"ProcessPCH /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerb16c86734ca9b841^3b8fe6744ca9b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4078"ProcessPCH /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch.pch ForgeModule-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -miphoneos-version-min=5.0.1 -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/ForgeModule.hmap -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/include -I. -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources/armv7s -I/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphoneos/ForgeModule.build/DerivedSources -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/build/Release-iphoneos -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule -F/Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch.d -c /Users/jake/Code/modules/forge.memory/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/21/2w8v_dq96fj2rwdl8c63jm7h0000gp/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/ForgeModule-Prefix-dptqibcfssspmnhksamiuupgceor/ForgeModule-Prefix.pch.pch36"1E77B59A-9ACF-42E0-A69E-CB9739095E19-
+bEBA547CF-3D41-4780-8324-5C700CF204CB
+
